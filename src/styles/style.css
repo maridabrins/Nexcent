@@ -77,6 +77,26 @@ h1{
 
 /* ------------ FIM MAIN ------------- */
 
+/* ------------ OUR CLIENTS ------------- */
+.our-clients{
+    text-align: center;
+    margin-top: 40px;
+}
+.our-clients p{
+    margin-top: 8px;
+    font-size: 16px;
+}
+
+.logo-clients{
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    gap: 136px;
+    padding: 25px 0px;
+}
+
+/* ------------ FIM OUR CLIENTS ------------- */
+
 
 
 

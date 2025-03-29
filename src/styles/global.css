@@ -20,7 +20,11 @@ p{ /*Todos os paragrafos tem a mesma cor */
     font-size: 16px;
     cursor: pointer;
 }
-
+h2{
+    color: var(--color-neutral-d_grey);
+    font-size: 36px;
+    font-weight: 600;
+}
 :root{ /* variaveis de cores */
     --color-neutral-black: #263238;
     --color-neutral-d_grey: #4D4D4D;
