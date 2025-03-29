@@ -155,6 +155,30 @@ h1{
 }
 
 /* ------------ FIM MANAGE SYSTEM ------------ */   
+/* ------------ PIXELGRADE ------------ */
+.pixelGrade{
+    display: flex;
+    justify-content: center;
+    gap: 49px;
+    margin-top: 42px;
+    padding: 52px;
+}
+.pixelGrade-content{
+    width: 661px;
+}
+
+.pixelGrade-content h2{
+    font-size: 36px;
+    margin-bottom: 16px;
+    width: 526px;
+}
+
+.pixelGrade-content p{
+    margin-top: 16px;
+}
+
+/* ------------ FIM PIXELGRADE ------------ */
+
 
 
 
