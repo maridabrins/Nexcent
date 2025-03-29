@@ -45,3 +45,43 @@ header{
 }
 
 /* --------------------FIM HEADER----------------------- */
+
+/* --------------------MAIN----------------------- */
+main{
+    display: flex;
+    background-color: var(--color-neutral-silver);
+    align-items: center;
+    justify-content: center;
+    gap: 104px;
+    padding: 96px 0px;
+}
+
+.content-lessons{
+    width: 657px;
+}
+
+h1{
+    color: var( --color-neutral-d_grey);
+    font-size: 64px;
+    font-weight: 600;
+}
+
+.content-lessons span{
+    color: var(--color-primary);
+
+}
+
+.content-lessons p{
+    margin-top: 16px;
+}
+
+/* ------------ FIM MAIN ------------- */
+
+
+
+
+
+
+
+
+

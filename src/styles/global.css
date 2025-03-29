@@ -6,6 +6,21 @@
 body{
     font-family: var(--font);
 }
+p{ /*Todos os paragrafos tem a mesma cor */
+    color: var(--color-neutral-grey);
+}
+
+.btn-primary{ /* Elemento padrão */
+    margin-top: 32px;
+    background-color: var(--color-primary);
+    color: var(--color-neutral-white);
+    border: none;
+    border-radius: 4px;
+    padding: 14px 32px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
 :root{ /* variaveis de cores */
     --color-neutral-black: #263238;
     --color-neutral-d_grey: #4D4D4D;
