@@ -179,6 +179,39 @@ h1{
 
 /* ------------ FIM PIXELGRADE ------------ */
 
+/* ------------ HELPING CLIENTS ------------ */
+.helping-local{
+    display: flex;
+    margin: 48px 0px;
+    background-color: var(--color-neutral-silver);
+    justify-content: center;
+    align-items: center;
+    gap: 72px;
+}
+
+.helping-content h2{
+    width: 390px;
+}
+
+.helping-content h2 span{
+    color: var(--color-primary);
+}
+
+.helping-content p{
+    margin-top: 8px ;
+    color: #18191F;
+}
+
+.helping-statistic{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Quantas vezes a estilização vai repetir */ /* 2, 1 fr  2 itens por coluna e o espaço que ela ocupa*/
+    gap: 30px;
+}
+.helping-itens{ /* coloca o h3 e o p ao lado */
+    display: flex;
+
+}
+/* ------------ FIM HELPING CLIENTS------------ */
 
 
 
