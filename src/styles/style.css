@@ -186,7 +186,8 @@ h1{
     background-color: var(--color-neutral-silver);
     justify-content: center;
     align-items: center;
-    gap: 72px;
+    gap: 204px;
+    padding: 64px 0px;
 }
 
 .helping-content h2{
@@ -205,11 +206,20 @@ h1{
 .helping-statistic{
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* Quantas vezes a estilização vai repetir */ /* 2, 1 fr  2 itens por coluna e o espaço que ela ocupa*/
-    gap: 30px;
+    gap: 50px;
 }
 .helping-itens{ /* coloca o h3 e o p ao lado */
     display: flex;
+    gap: 16px;
+}
 
+.helping-itens img{
+    width: 48px;
+    height: 48px;
+}
+
+.information-itens{
+    text-align: start;
 }
 /* ------------ FIM HELPING CLIENTS------------ */
 
