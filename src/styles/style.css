@@ -223,6 +223,29 @@ h1{
 }
 /* ------------ FIM HELPING CLIENTS------------ */
 
+.how-design{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;
+    gap: 109.47px;
+}
+
+.how-design img{
+    width: 442px;
+    height: 435px;
+}
+
+.how-design-content{
+    padding: 62.7px;
+    width: 601px;
+}
+.how-design-content p{
+    margin-top: 16px;
+    line-height: 1.5;
+}
+
+
 
 
 
