@@ -283,6 +283,7 @@ h1{
 .customer-container{
     display: flex;
     gap: 32px;
+    align-items: center;
 }
 
 .customer-itens{
