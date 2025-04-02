@@ -309,6 +309,68 @@ h1{
     
 /* ------------ FIM CUSTOMER------------ */
 
+/* ------------ MARKETING------------ */
+
+.caring-marketing{
+    text-align: center;
+    margin-bottom: 94.6px;
+}
+.caring-marketing h2{
+    margin-top: 48px;
+    margin-bottom: 8px;
+}
+
+.caring-marketing-p{
+    width: 628px;
+    margin: 0 auto; /* o width tira o align center então usamos uma margem automatica */
+}
+
+.caring-marketing-content{
+    margin-top: 16px;
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+
+.caring-cards{
+    width: 368px;
+    position: relative; 
+}
+.caring-cards-content{
+    box-sizing: border-box; /* usando o tamanho do width */
+    padding: 16px;
+    background-color: var(--color-neutral-silver);
+    border-radius: 8px;
+    box-shadow: 0px 8px 16px 3px rgba(171, 190, 209, 0.4); /* 40% no figma é 0.4 aqui */
+    width: 317px;
+    position: absolute;
+    bottom: -53px;
+    left: 25px;
+}
+.caring-cards-content h3{
+    font-size: 20px;
+    color: var(--color-neutral-grey);
+}
+
+.caring-cards-content a{
+    display: flex;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 24px;
+    justify-content: center;
+    gap: 8px;
+    font-weight: 600;
+}
+
+.caring-cards-content p{
+    color: var(--color-primary);
+    
+}
+
+
+/* ------------ FIM MARKETING------------ */
+
+
 
 
 
