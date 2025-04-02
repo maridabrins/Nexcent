@@ -313,7 +313,6 @@ h1{
 
 .caring-marketing{
     text-align: center;
-    margin-bottom: 94.6px;
 }
 .caring-marketing h2{
     margin-top: 48px;
@@ -330,6 +329,7 @@ h1{
     display: flex;
     gap: 24px;
     justify-content: center;
+    margin-bottom: 94.6px;
 }
 
 .caring-cards{
@@ -366,9 +366,30 @@ h1{
     color: var(--color-primary);
     
 }
-
-
 /* ------------ FIM MARKETING------------ */
+
+/* ------------ PELLENTESQUE------------ */
+.pellentesque{
+    text-align: center;
+    background-color: var(--color-neutral-silver);
+}
+
+.pellentesque a{
+    text-decoration: none;
+}
+.pellentesque h2{
+    font-size: 64px;
+    width: 670px;
+    margin: 0 auto;
+    padding: 32px 0px;
+}
+.pellentesque button{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    gap: 8px;
+}
+/* ------------ FIM PELLENTESQUE------------ */
 
 
 
