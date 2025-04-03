@@ -374,6 +374,7 @@ h1{
 .pellentesque{
     text-align: center;
     background-color: var(--color-neutral-silver);
+    padding: 32px;
 }
 
 .pellentesque a{
@@ -392,6 +393,98 @@ h1{
     gap: 8px;
 }
 /* ------------ FIM PELLENTESQUE------------ */
+
+/* ------------ FOOTER------------ */
+footer{
+    background-color: var(--color-neutral-black);
+    display: flex;
+    gap: 284px;
+    padding: 64px 0;
+    justify-content: center;
+}
+
+.copyright{
+    margin: 40px 0; /* margem em cima e em baixo */
+}
+.copyright p{
+    font-size: 16px;
+    color: var(--color-neutral-silver); 
+}
+.copyright p:nth-of-type(1){
+    margin-bottom: 8px;
+}
+.footer-socials{
+    display: flex;
+    gap: 16px;
+}
+.social-icons{
+    background-color: #3c474C;
+    padding: 7.47px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+}
+.social-icons:hover{
+    transform: translateY(-10px); /* itens direcionados p cima ao passar o mouse */
+    background-color: var(--color-primary);
+
+}
+
+.footer-navigation{
+    display: flex;
+    gap: 97px;
+}
+.footer-navigation h2{
+    margin-bottom: 24px;
+    color: var(--color-neutral-white);
+    font-size: 20px;
+}
+.footer-links{
+    list-style: none;
+    font-size: 14px;
+}
+.footer-item{
+    color: var(--color-neutral-silver);
+    text-decoration: none;
+    display: block;
+    margin-bottom: 12px;
+    transition: 0.4; /* definindo tempo para o transform */
+}
+.footer-item:hover{
+    color: var(--color-primary);
+    transform: translateX(10px);
+}
+
+.footer-container form{
+    display: flex;
+    align-items: center;
+}
+.footer-container form input{
+    padding: 10px;
+    border-radius: 8px 0 0 8px; /* encaixando o input com o button */
+    background-color: rgba(255, 255, 255,0.2);
+    color: #D9DBE1;
+    outline: none; /* tirar borda do input */
+}
+.footer-container form input::placeholder{ /* estilizar o placeholder */
+    color: #D9DBE1;
+}
+
+.stay-button{
+    padding: 8.5px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 0 8px 8px 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+.stay-button:hover{
+    
+}
+
+/* ------------ FIM FOOTER------------ */
 
 
 
