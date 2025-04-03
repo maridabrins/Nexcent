@@ -6,12 +6,11 @@
 <p align="center">
  <a href="#-Descrição-do-entregável">Descrição do Entregável</a> •
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-licença">Licença</a>
 </p>
 
 
@@ -34,7 +33,7 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Esse é um site que foi desenvolvido a partir de um projeto do Figma
+Esse site foi desenvolvido a partir de um projeto do Figma,
 
 <!-- LINHA DE DIVISÃO: -->
 ---
@@ -52,9 +51,12 @@ Esse é um site que foi desenvolvido a partir de um projeto do Figma
 <!-- MODELO DE COMO EXECUTAR O PROJETO -->
 ## 🚀 Como executar o projeto
 
-1 - Baixar o Projeto <br>
-2 - Abrir em um editor de código
-3- 
+1 - Baixar o Projeto (git clone)  <br>
+`git clone https://github.com/maridabrins/Nexcent.git`
+
+2 - Abrir em um editor de código <br>
+
+3- Acessar o index.html para visualizar o contéudo
 
 <!-- ---------------------------------------------------------------------- -->
 
@@ -63,16 +65,22 @@ Esse é um site que foi desenvolvido a partir de um projeto do Figma
 
 Antes de começar, você vai precisar ter instalado em sua máquina um editor de código.
 
-
 ---
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
+- Desenvolvimento (HTML)
+- Estilização (CSS)
 
-Ferramentas: 
-#### Desenvolvimento (HTML)
+#### Ferramentas: 
+
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
+</div>
 
 ---
 
@@ -94,11 +102,11 @@ Ferramentas:
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
-<a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
+<a href="(https://www.linkedin.com/in/mariana-dabrins-95a971328/)">
 Mariana Dabrins</a>
  <br />
  
-[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-maridabrins@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maridabrins@hotmail.com)](mailto:maridabrins@hotmail.com)
 
 ---
 
@@ -109,6 +117,6 @@ Mariana Dabrins</a>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Feito por Mariana Dabrins👋🏽 
 
 
