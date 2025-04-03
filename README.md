@@ -43,7 +43,7 @@ Esse é um site que foi desenvolvido a partir de um projeto do Figma
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
 
-![Web1](maridabrins/Nextcent/src/assets/images/Thumbnail.png)
+![Web1](https://github.com/maridabrins/Nexcent/blob/main/src/assets/images/Thumbnail.png)
 
 ---
 
