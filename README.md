@@ -58,6 +58,11 @@ Esse site foi desenvolvido a partir de um projeto do Figma,
 
 3- Acessar o index.html para visualizar o contéudo
 
+### Ou acesse por aqui:
+Você também pode acessar clicando nesse link do Github Pages:
+
+- [Nexcent](https://maridabrins.github.io/Nexcent/)
+
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE PRÉ REQUISITOS -->
@@ -71,8 +76,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina um editor de
 
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
-- Desenvolvimento (HTML)
-- Estilização (CSS)
+
+#### **Front-End**  ([HTML](https://html.com/)) 
+#### **Estilização** ([CSS](https://css.com/))
+#### **Prototipo** ([Figma](https://www.figma.com/))
+
 
 #### Ferramentas: 
 
